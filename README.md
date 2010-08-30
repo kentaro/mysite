@@ -1,6 +1,6 @@
 # www.kentarok.org
 
-My website: [www.kentarok.org](www.kentarok.org)
+My website: [http://www.kentarok.org/](http://www.kentarok.org/)
 
 # Setting
 
