@@ -1,0 +1,205 @@
+@charset "Shift_JIS";
+
+html{
+	margin : 0;
+	padding : 0;
+}
+
+body{
+	margin : 0 20px;
+	padding : 0;
+	color : #333333;
+	background-color : #282e3d;
+	background-image : url("../img/background_meg.png");
+	background-position : 5% 0%;
+	background-attachment : fixed;
+	background-repeat : no-repeat;
+}
+
+h1{
+	font-family : serif;
+	color : #666666;
+	font-size : 600%;
+	position : absolute;
+	top : 2%;
+	left : 65%;
+	text-align : right;
+	z-index : 0;
+	margin : 0;
+	padding : 0;
+}
+
+.erotic_phrase{
+	color : #ff99cc;
+	margin : 0;
+	padding : 0;
+	font-family : Times New Roman,serif;
+	position : absolute;
+	top : 335px;
+	left : 5%;
+	font-size : 500%;
+	z-index : 1;
+}
+
+.ayaya_phrase{
+	display : none;
+}
+
+#ayaya_list{
+	display : none;
+}
+
+h3{
+	font-family : serif;
+	margin : 5px 5%;
+	letter-spacing : 0.2em;
+}
+
+h3:first-letter{
+	color : #ff99cc;
+	font-size : 200%;
+	font-family : Times New Roman,serif;
+}
+
+h4{
+	text-align : right;
+	color : #42ae1e;
+	margin : 20px 3% 20px 0;
+}
+
+h4 a:link{
+	color : #42ae1e;
+	background-color : transparent;
+	text-decoration : none;
+}
+
+h4 a:visited{
+	color : #42ae1e;
+	background-color : transparent;
+	text-decoration : none;
+}
+
+h4 a:hover{
+	color : #42ae1e;
+	background-color : transparent;
+	text-decoration : none;
+}
+
+.menu{
+	position : absolute;
+	top : 435px;
+	left : 2%;
+	width : 42%;
+	z-index : 5;
+	margin : 0;
+	padding : 0;
+}
+
+.erotic{
+	position : absolute;
+	top : 240px;
+	left : 40%;
+	margin : 0;
+	padding : 0;
+	width : 58%;
+	z-index : 10;
+	filter : alpha(opacity=70,finishopacity=100,style=1.startx=0,starty=300,finishx=300.finishy=0);
+	-moz-opacity : 0.7;
+	background-color : #fafafa;
+}
+
+.erotic p{
+	margin : 20px 3% 20px 5%;
+	line-height : 1.6em;
+	text-indent : 1em;
+}
+
+.ayaya{
+	display : none;
+}
+
+.menu li{
+	font-size : 90%;
+	color : #fafafa;
+	font-weight : bold;
+	padding : 0 5px;
+	list-style-type : none;
+	display : inline;
+}
+
+.menu a:link{
+	color : #fafafa;
+	background-color : transparent;
+	text-decoration : underline;
+}
+
+.menu a:visited{
+	color : #fafafa;
+	background-color : transparent;
+	text-decoration : underline;
+}
+
+.menu a:hover{
+	color : #fafafa;
+	background-color : transparent;
+	text-decoration : none;
+}
+
+a:link{
+	color : #2647c3;
+	text-decoration : underline;
+}
+
+a:visited{
+	color : #4080c0;
+	text-decoration : underline;
+}
+
+a:hover{
+	color : #26734c;
+	text-decoration : none;
+}
+
+address{
+	color : #fafafa;
+	background-color : transparent;
+	position : absolute;
+	top : 515px;
+	left : 5%;
+	font-style : normal;
+	width : 50%;
+	margin : 0;
+	padding : 0;
+}
+
+.ayaya_banner{
+	display : none;
+}
+
+blockquote{
+	color : #fafafa;
+	border : dotted 2px #42ae1e;
+	padding : 0 0.2em 0 1em; 
+}
+
+em{
+	color : #fafafa;
+	background-color :  #8f8fa3;
+	font-style : normal;
+}
+
+.erotic dt{
+	border-bottom : #333333 1px solid;
+	margin : 0 20% 0 3%;
+	padding : 3px;
+}
+
+.erotic li{
+	margin : 0 3% 0 3%;
+	line-height : 1.6em;
+}
+
+q{
+	quotes : "Åu""Åv";
+	border-bottom : 1px dotted #42ae1e;
+}

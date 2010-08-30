@@ -1,0 +1,57 @@
+html, body {
+  padding: 0;
+  margin:  0;
+}
+
+body#index div#content {
+  padding: 3% 15%;
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+}
+
+a:link {
+  color: #6495ed;
+}
+
+a:visited {
+  color: #483d8b
+}
+
+a:hover {
+  color: #ff4500;
+}
+
+body#index div#profile-image {
+  float: left;
+  margin: 0 0 0 2em;
+  padding: 0;
+}
+
+dl {
+  margin: 0;
+  padding: 0;
+}
+
+body#index dl#profile-list {
+  float: left;
+}
+
+body#index dl dt {
+  clear: both;
+  float: left;
+  width: 8em;
+  font-weight: bold;
+}
+
+body#index dl dd {
+  float: left;
+}
+
+section {
+  clear: both;
+  margin: 10% 0;
+  padding: 1em 0;
+}

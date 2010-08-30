@@ -1,0 +1,214 @@
+@charset "Shift_JIS";
+
+html{
+	margin : 0;
+	padding : 0;
+}
+
+.top,.about,.past,.valid_ayaya,
+.past_0207,.past_0208,.past_0209,
+.past_0210{
+	margin : 0 20px;
+	padding : 0;
+	color : #333333;
+	background-color : #333333;
+	background-image : url("../img/background_ayaya.png");
+	background-position : 5% 0%;
+	background-attachment : fixed;
+	background-repeat : no-repeat;
+}
+
+.about{
+	background-image : url("../img/background_ayaya_about.png");
+}
+
+.past{
+	background-image : url("../img/background_ayaya_past.png");
+}
+
+.past_0207{
+	background-image : url("../img/background_ayaya_past_0207.png");
+}
+
+.past_0208{
+	background-image : url("../img/background_ayaya_past_0208.png");
+}
+
+.past_0209{
+	background-image : url("../img/ayaya1_past0209.png");
+}
+
+.past_0210{
+	background-image : url("../img/ayaya1_past0210.png");
+}
+
+.valid_ayaya{
+	background-image : url("../img/ayaya1_valid.png");
+}
+
+h1{
+	font-family : serif;
+	color : #ff6666;
+	font-size : 400%;
+	margin : 10px 0 0 30%;
+}
+
+.ayaya_phrase{
+	color : #fafafa;
+	margin : 0;
+	padding : 0;
+	font-family : serif;
+	position : absolute;
+	top : 340px;
+	left : 12%;
+	font-size : 700%;
+	width : 10px;
+}
+
+.erotic_phrase{
+	display : none;
+}
+
+h3{
+	margin : 5px 0;
+}
+
+h3:first-letter{
+	color : #ff6666;
+	font-size : 300%;
+	font-family : Times New Roman,serif;
+}
+
+h4{
+	color : #ff6666;
+	margin : 20px 0 10px 10%;
+}
+
+h4 a:link{
+	color : #ff6666;
+	background-color : transparent;
+	text-decoration : none;
+}
+
+h4 a:visited{
+	color : #ff6666;
+	background-color : transparent;
+	text-decoration : none;
+}
+
+h4 a:hover{
+	color : #ff6666;
+	background-color : transparent;
+	text-decoration : none;
+}
+
+.menu,.ayaya{
+	border : 3px #333333 solid;
+	background-color : #fafafa;
+	background-image : url("../img/tile.png");
+	background-repeat : repeat;
+	padding : 10px;
+	margin : 10px 0px 10px 230px;
+}
+
+.ayaya p{
+	margin : 20px 3% 20px 5%;
+	line-height : 1.6em;
+	text-indent : 1em;
+}
+
+.conversation li{
+	list-style-type : none;
+}
+
+.erotic{
+	display : none;
+}
+
+.menu li{
+	color : #333333;
+	padding : 0 5px;
+	list-style-type : none;
+	display : inline;
+}
+
+.menu a:link{
+	color : #ff6666;
+	background-color : transparent;
+	text-decoration : none;
+}
+
+.menu a:visited{
+	color : #ff6666;
+	background-color : transparent;
+	text-decoration : none;
+}
+
+.menu a:hover{
+	color : #ff6666;
+	background-color : transparent;
+	text-decoration : none;
+}
+
+a:link{
+	color : #f0a8ba;
+	text-decoration : underline;
+}
+
+a:visited{
+	color : #f0a8f0;
+	text-decoration : underline;
+}
+
+a:hover{
+	color : #fafafa;
+	background-color : #f0a8ba;
+	text-decoration : none;
+}
+
+address{
+	border : 3px #333333 solid;
+	background-color : #fafafa;
+	background-image : url("../img/tile.png");
+	background-repeat : repeat;
+	padding : 10px;
+	margin : 10px 0px 10px 230px;
+	font-style : normal;
+}
+
+.ayaya_banner{
+	margin : 0 2% 0 80%;
+}
+
+blockquote{
+	color : #333333;
+	border : dotted 2px #ff8c00;
+	padding : 0 0.2em 0 1em; 
+}
+
+em{
+	color : #333333;
+	background-color :  #ffb366;
+	font-style : normal;
+}
+
+.ayaya dt{
+	border-bottom : #333333 1px solid;
+	margin : 0 20% 0 3%;
+	padding : 3px;
+}
+
+dd{
+	margin : 0;
+	padding : 0;
+}
+
+.ayaya li{
+	margin : 0 3% 0 3%;
+	line-height : 1.6em;
+}
+
+q{
+	quotes : "Åu""Åv";
+	border-bottom : 1px dotted #ff8c00;
+}
